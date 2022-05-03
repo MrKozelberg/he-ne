@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1651599722 "main.tex" "main.pdf" "main" 1651599724
+["pdflatex"] 1651604635 "main.tex" "main.pdf" "main" 1651604636
   "/home/mrk/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1632305265 3308 eee81981029f67083258db36df06e523 ""
   "/home/mrk/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1632305264 3312 d199be9bd555944e2403193d58a0256a ""
   "/home/mrk/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/lacc1200.tfm" 1651590090 3164 a3c854a704528ade5328a1ee68af6394 ""
@@ -123,10 +123,11 @@
   "/usr/share/texlive/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1621882710 39615 33f7d51cf394547e122c9714408659b1 ""
   "/usr/share/texlive/texmf-var/web2c/pdftex/pdflatex.fmt" 1632316433 2430020 df7455209227fedc7915618f4b83a534 ""
+  "freq-width.png" 1651603822 80130 dfcca8facd6aed4dcf61313900ae52eb ""
   "he-ne-enrgy.png" 1651591493 41435 1cec988b778b2639f13100f7ed19fd40 ""
-  "main.aux" 1651599724 1490 45ba35c5fe26819436dc6935b55f6b6b "pdflatex"
-  "main.out" 1651599724 501 93a5dc46d8209b5186ce046956552203 "pdflatex"
-  "main.tex" 1651599721 8041 a3f355eda5637b2496ce750c348db043 ""
+  "main.aux" 1651604636 2318 5f60d433fedd878520ab88839dc81f4e "pdflatex"
+  "main.out" 1651604636 654 3b63ada8983f4e3df5659d99ca5bbe29 "pdflatex"
+  "main.tex" 1651604629 11744 7223f52c2fe6adede6d98ac23fcbe3a2 ""
   "pre.tex" 1651144480 1903 e74573e1280c69b8a5a87095e4065249 ""
   "titlepage.tex" 1651590182 969 0fc47ddcf45cb8c5033a2f9da138871e ""
   (generated)

@@ -210,6 +210,9 @@ INPUT ./he-ne-enrgy.png
 INPUT /home/mrk/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/larm0800.tfm
 INPUT /home/mrk/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/larm0600.tfm
 INPUT /home/mrk/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm
+INPUT freq-width.png
+INPUT ./freq-width.png
+INPUT ./freq-width.png
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
