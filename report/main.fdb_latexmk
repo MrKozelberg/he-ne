@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1651604635 "main.tex" "main.pdf" "main" 1651604636
+["pdflatex"] 1651682876 "main.tex" "main.pdf" "main" 1651682878
   "/home/mrk/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1632305265 3308 eee81981029f67083258db36df06e523 ""
   "/home/mrk/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1632305264 3312 d199be9bd555944e2403193d58a0256a ""
   "/home/mrk/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/lacc1200.tfm" 1651590090 3164 a3c854a704528ade5328a1ee68af6394 ""
@@ -38,6 +38,7 @@
   "/usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb" 1215737283 140176 d4962f948b4cc0adf4d3dde77a128c95 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb" 1215737283 139826 9213617a7cb78635fc326b859c0b2273 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb" 1215737283 108594 1a08a22405bc37650b977f219cc3597d ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb" 1215737283 164227 3df942b4ff2124425d8fb1b6d3e01c7a ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb" 1215737283 136101 f533469f523533d38317ab5729d00c8a ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb" 1215737283 131078 d96015a2fa5c350129e933ca070b2484 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb" 1215737283 198221 ca5aa71411090ef358a6cc78b7458365 ""
@@ -123,11 +124,12 @@
   "/usr/share/texlive/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1621882710 39615 33f7d51cf394547e122c9714408659b1 ""
   "/usr/share/texlive/texmf-var/web2c/pdftex/pdflatex.fmt" 1632316433 2430020 df7455209227fedc7915618f4b83a534 ""
+  "bennet-failure.png" 1651681047 99469 e31cfcc0f6872cdd90db4e243fa6b868 ""
   "freq-width.png" 1651603822 80130 dfcca8facd6aed4dcf61313900ae52eb ""
   "he-ne-enrgy.png" 1651591493 41435 1cec988b778b2639f13100f7ed19fd40 ""
-  "main.aux" 1651604636 2318 5f60d433fedd878520ab88839dc81f4e "pdflatex"
-  "main.out" 1651604636 654 3b63ada8983f4e3df5659d99ca5bbe29 "pdflatex"
-  "main.tex" 1651604629 11744 7223f52c2fe6adede6d98ac23fcbe3a2 ""
+  "main.aux" 1651682877 2887 413808b0e71d5315ec17e8284cd0b77a "pdflatex"
+  "main.out" 1651682877 654 3b63ada8983f4e3df5659d99ca5bbe29 "pdflatex"
+  "main.tex" 1651682874 17054 5701521fb42aa3dff4908f18c6de81d0 ""
   "pre.tex" 1651144480 1903 e74573e1280c69b8a5a87095e4065249 ""
   "titlepage.tex" 1651590182 969 0fc47ddcf45cb8c5033a2f9da138871e ""
   (generated)
